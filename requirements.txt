@@ -1,0 +1,5 @@
+function_frameworks
+requests
+pandas
+bigquery
+python-dotenv
